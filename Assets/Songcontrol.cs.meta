@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a96659abecc43504d90be62d63b3c494
+timeCreated: 1508509388
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Button1: {fileID: 4674601315975000, guid: 62d86deb67e979941a2c0d8f8dd05ca3, type: 2}
+  - Button2: {fileID: 4636308703180634, guid: c3e06b6fb60cb0a48a88fad091c33bf5, type: 2}
+  - Button3: {fileID: 4566225598354832, guid: 0d2064c95c8f18e43894e992972af9c6, type: 2}
+  - scoreObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
